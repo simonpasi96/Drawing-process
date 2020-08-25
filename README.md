@@ -1,7 +1,7 @@
 # Drawing-process
 
 
-# Marc Brunet's coloring steps
+# Marc Brunet's sprints
 * Sprint 1: [Lines] [Flat colors]
 * Sprint 2: [Shading] [Tint/reflections]
 * Sprint 3: [Lights] [Polish]

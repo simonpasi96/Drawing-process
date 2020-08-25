@@ -1,9 +1,9 @@
 # Drawing-process
 To understand how to produce drawings
 ## Lines
-![Lines](/Images/Lines.jpg)
+<img src="/Images/Lines.jpg" height="350px"></img>
 ## Flat colors
-![Flat colors](/Images/Flat%20colors.jpg)
+<img src="/Images/Flat%20colors.jpg" height="350px"></img>
 ## Shading
 ## Tint/reflections
 ## Lights

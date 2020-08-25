@@ -10,8 +10,6 @@ Source: HOW TO COLOR YOUR DRAWINGS (in any software) 👨‍🎨 https://www.you
 - Sprint 3: 
   - [Lights]
   - [Polish]
-  
-<img src="/Images/Process.gif" height="350px"></img>
 
 ## Lines
 <img src="/Images/Lines.jpg" height="350px"></img>

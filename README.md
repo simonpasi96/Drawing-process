@@ -2,6 +2,10 @@
 
 
 # Marc Brunet's coloring steps
+* Sprint 1: [Lines] [Flat colors]
+* Sprint 2: [Shading] [Tint/reflections]
+* Sprint 3: [Lights] [Polish]
+
 ## Lines
 <img src="/Images/Lines.jpg" height="350px"></img>
 ## Flat colors

@@ -1,5 +1,7 @@
 # Drawing-process
-To understand how to produce drawings
+
+
+# Marc Brunet's coloring steps
 ## Lines
 <img src="/Images/Lines.jpg" height="350px"></img>
 ## Flat colors

@@ -1,4 +1,4 @@
-# Marc Brunet's sprints
+# Marc Brunet's process
 Source: HOW TO COLOR YOUR DRAWINGS (in any software) 👨‍🎨 https://www.youtube.com/watch?v=Wvng0oPkNy4
 
 Process:

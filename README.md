@@ -1,7 +1,15 @@
 # Marc Brunet's sprints
 Source: HOW TO COLOR YOUR DRAWINGS (in any software) 👨‍🎨 https://www.youtube.com/watch?v=Wvng0oPkNy4
 
-Process: [Lines]-[Flat colors] - [Shading]-[Tint/reflections] - [Lights]-[Polish]
+- Sprint 1:
+  - [Lines]
+  - [Flat colors]
+- Sprint 2:
+  - [Shading]
+  - [Tint/reflections]
+- Sprint 3:
+  - [Lights]
+  - [Polish]
 
 ## Lines
 <img src="/Images/Lines.jpg" height="350px"></img>

@@ -1,6 +1,7 @@
 # Marc Brunet's sprints
 Source: HOW TO COLOR YOUR DRAWINGS (in any software) 👨‍🎨 https://www.youtube.com/watch?v=Wvng0oPkNy4
 
+Process:
 - Sprint 1
   - [Lines]
   - [Flat colors]
